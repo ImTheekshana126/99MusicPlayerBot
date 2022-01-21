@@ -1,7 +1,7 @@
 """
 MIT License
 
-Copyright (c) 2021 Janindu Malshan
+Copyright (c) 2021 Pawan Theekshana
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -56,10 +56,10 @@ I can play music in Telegram group voice chats.
 START_BUTTONS = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton("📨 Support", url="https://t.me/JaguarBots"),
-            InlineKeyboardButton("📚 Source Code", url="https://github.com/ImJanindu/47MusicPlayerBot")
+            InlineKeyboardButton("📨 Support", url="https://t.me/Theekshana_support,
+            InlineKeyboardButton("📚 Source Code", url="https://github.com/Imtheekshana126/99musicplayerbot
         ]
-    ]
+    ]                           
 )
 
 BUTTONS = InlineKeyboardMarkup(
